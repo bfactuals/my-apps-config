@@ -1,11 +1,11 @@
 {
-  "creatorName": "vikash",
+  "creatorName": "vikash kr",
   "creatorBio": "Crafted by vikash for distraction-free reading.",
   "latestVersion": "1.1.0",
-  "updateUrl": "",
+  "updateUrl": "https://github.com/bfactuals/epos-reader/releases/download/v1.1.0/app-debug.apk",
   "links": {
     "telegram": "https://t.me/bfactuals",
     "instagram": "https://instagram.com/bfactuals",
-    "github": ""
+    "github": "https://github.com/bfactuals/epos-reader"
   }
 }
